@@ -1,5 +1,5 @@
 ---
-title: "그래프에서 DFS로 사이클 찾기 "
+title: "그래프에서 DFS로 사이클 찾기"
 date: 2026-02-23
 categories: [Competitive Programming]
 tags: [dfs, graph]
